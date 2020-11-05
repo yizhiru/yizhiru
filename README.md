@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m an algorithm engineer.
+- 💬 Ask me about `j.y.zheng@qq.com`.
+
+</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yizhiru&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
