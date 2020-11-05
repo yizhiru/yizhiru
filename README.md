@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **yizhiru/yizhiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some ideas to get you started:
+</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yizhiru&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 - 🔭 I’m an algorithm engineer.
 - 💬 Ask me about `j.y.zheng@qq.com`.
 
-</div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yizhiru&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
