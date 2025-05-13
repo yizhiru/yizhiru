@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yizhiru&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-- 🔭 I have  experience in both software engineering and machine learning.
+- 🔭 Experienced machine learning engineer with a solid track record of building and deploying intelligent systems, along with prior work in software engineering.
 - 💬 Ask me about `j.y.zheng@qq.com`.
 
 
